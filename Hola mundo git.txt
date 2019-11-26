@@ -10,3 +10,11 @@ git checkout -- index.html (regresa al ultimo commit, quitando o ultimo añadido
 git diff index.html
 
 
+
+Añadir todos los archivos
+git add .
+git add --all
+
+
+Commit
+git commit -m "Mensaje"
