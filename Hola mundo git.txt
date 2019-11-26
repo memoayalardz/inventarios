@@ -18,3 +18,9 @@ git add --all
 
 Commit
 git commit -m "Mensaje"
+
+
+Crear archivo ".gitignore" para añadir excepciones de carpetas en /.git/.gitignore
+adentro del archivo la lista de carpetas
+
+
