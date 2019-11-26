@@ -1,1 +1,12 @@
-Hola mundo git
+Inicializar el repositorio
+git config --global user.email "lguillermoayala@hotmail.com"
+git config --global user.name "memoayalardz"
+git commit
+
+
+Regresar un cambio y ver la diferencia
+
+git checkout -- index.html (regresa al ultimo commit, quitando o ultimo añadido)
+git diff index.html
+
+
